@@ -1,0 +1,3 @@
+LAD not a valid mnemonic!! -> 102
+AD not a valid mnemonic!! -> 103
+D not declared OR is declared twice!! 
